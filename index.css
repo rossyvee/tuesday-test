@@ -3,4 +3,12 @@ h1 {
 }
 h2 {
     color: brown;
+    font-style: italic;
+    text-align: center;
+}
+p {
+    color: gray;
+}
+body {
+    background-color: skyblue;
 }
