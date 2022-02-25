@@ -1,0 +1,14 @@
+h1 {
+    color: blue;
+}
+h2 {
+    color: rgb(201, 21, 21);
+    font-style: italic;
+    text-align: left;
+}
+p {
+    color: black;
+}
+body {
+    color: black;
+}
